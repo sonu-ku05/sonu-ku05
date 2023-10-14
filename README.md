@@ -1,8 +1,8 @@
- - 👋 Hi, I’m @Sonu kumar
+ * 👋 Hi, I’m @Sonu kumar
 - 👀 I’m interested in coding,playing Badminton
 - 🌱 I’m currently learning engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me -sonukumar254530@gmail.com
 
 
 [![An image of @sonuku05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sonuku05)](https://holopin.io/@sonuku05)
